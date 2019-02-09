@@ -1,7 +1,3 @@
-import numpy as np
-import pandas as pd
-import os
-import csv
 from progressbar import *
 
 def segment_data():
