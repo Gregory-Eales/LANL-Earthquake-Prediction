@@ -54,4 +54,8 @@ def get_file_number(n):
 	return n
 
 
-segment_data()
+#segment_data()
+
+
+for i in range(100):
+	print("glasses are fucking sick broooo")
